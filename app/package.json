@@ -10,6 +10,7 @@
   "author": "Kwon JaeYun",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.4",
@@ -20,6 +21,7 @@
     "multer": "^1.4.5-lts.1",
     "mysql2": "^3.9.1",
     "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
     "sequelize": "^6.37.0",
     "sequelize-cli": "^6.6.2"
   },
@@ -27,4 +29,3 @@
     "nodemon": "^3.0.3"
   }
 }
-
